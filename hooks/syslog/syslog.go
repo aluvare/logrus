@@ -9,7 +9,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/sirupsen/logrus"
+	"github.com/aluvare/logrus"
 )
 
 const (
